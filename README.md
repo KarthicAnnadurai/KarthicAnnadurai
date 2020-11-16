@@ -1,5 +1,11 @@
-### Hi there 👋
+### Welcome to Karthic's Repository
+![](https://komarev.com/ghpvc/?username=KarthicAnnadurai&color=brightgreen)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=KarthicAnnadurai)
+
+🌱 I’m currently a Master's student MTech CSE at National Institute of Technology, Silchar
+
+📫 Reach me @ https://www.linkedin.com/in/karthic-annadurai/
 <!--
 **KarthicAnnadurai/KarthicAnnadurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
