@@ -1,8 +1,19 @@
 ### Welcome to Karthic's Repository
 ![](https://komarev.com/ghpvc/?username=KarthicAnnadurai&color=brightgreen)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KarthicAnnadurai)
+![Github stats](https://github-readme-stats.vercel.app/api?username=KarthicAnnadurai&show_icons=true)
 
+<!-- Actual text -->
+
+You can find me on LinkedIn profile [![LinkedIn][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/karthic-annadurai/
 
 <!--
 **KarthicAnnadurai/KarthicAnnadurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
