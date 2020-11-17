@@ -5,7 +5,7 @@
 
 <!-- Actual text -->
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/karthic-annadurai/) [![LinkedIn][1.2]][1]
+You can reach me on [LinkedIn](https://www.linkedin.com/in/karthic-annadurai/) [![LinkedIn][1.2]][1]
 
 <!-- Icons -->
 
